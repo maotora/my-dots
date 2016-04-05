@@ -1,0 +1,22 @@
+sw_volume: 0
+audio_device_state:1:My Alsa
+audio_device_state:1:my_fifo
+state: pause
+current: 2
+time: 140.527000
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/05. Clown.mp3
+1:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/06. Daddy (feat. Naughty Boy).mp3
+2:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/14. Read All About It (Pt. III).mp3
+3:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/15. Wonder (feat. Naughty Boy).mp3
+4:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/16. Breaking The Law (Alternate Version).mp3
+5:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/18. Beneath Your Beautiful (feat. Labrinth).mp3
+6:Albums Collections/Mtoni albums/Emeli Sande - Our Version Of Events [2012] [Special Edition] [Mp3-320 kbps]-V3nom [GLT]/19. Imagine (Cover of original song by John Lennon).mp3
+playlist_end

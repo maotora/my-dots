@@ -1,0 +1,50 @@
+search music
+search powerli
+search powerline
+cd /home/maotora/bin/dots/dotfiles/unminimalVarokah/.config
+search .xmo
+search .config
+cd .config
+mkdir powerline
+search po
+search jar
+search hus
+search desk
+search vid
+search tu
+cd Desktop/
+search you
+search xmo
+search screen
+search specs
+search nazi
+search pic
+search spec
+search i3
+search ted
+search down
+mkdir toSend
+cd Documents/
+mkdir 
+search bin
+mkdir myDots
+rename myDots
+rename my-dotfiles
+delete
+search todo
+search x
+search downl
+cd /mnt/
+set show_hidden=true
+search tuto
+search trans
+cd .config/
+search 
+cd powerline/
+search vide
+delete 
+open_with audacity
+cd 
+search wall
+open_with 2
+open_with 

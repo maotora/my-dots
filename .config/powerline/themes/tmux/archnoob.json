@@ -1,0 +1,28 @@
+{
+	"segments": {
+		"right": [
+			{
+				"function": "powerline.segments.common.time.date"
+			},
+			{
+				"function": "powerline.segments.common.time.date",
+				"args": {
+					"format": "%H:%M",
+					"istime": true
+				}
+			},
+			{
+				"function": "powerline.segments.common.net.hostname"
+			}
+		],
+
+		"left": [
+            {
+				"function": "powerline.segments.common.bat._fetch_battery_info"
+            },
+            {
+				"function": "powerline.segments.tmux.attached_clients"
+            }
+        ]
+	}
+}
