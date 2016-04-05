@@ -22,29 +22,29 @@ I'm not sure if i got the whole list in mind, will commit the more i remember.
     w3m weechat 
     xclip 
     youtube-dl
-    cclive
-    clamav
-    cmus
     finch
     ffmpeg
     glances
-    handbrake-cli
-    inxi
-    livestreamer
     lynx
     mutt
     ncdu
     newsbeuter
     pastebinit
-    pianobar
-    plowshare
-    quvi
     rsync
     samba
     scrot
-
+    youtube-viewer
 
 ```
+I've trimed down my 
+```
+vim/bundle
+
+``` 
+folder to nothing because it was 73 mb. :v
+
+But inside it i placed the list of all the plugin names so you can download at your own.
+
 ## This can go to forver!
 
 If i'm missing anything just look at [Gotbletu](https://github.com/gotbletu/dotfiles)
